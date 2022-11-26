@@ -1,0 +1,73 @@
+{
+  "movies": [
+    {
+      "title": "Masakra piłą mechaniczną",
+      "director": {
+        "firstName": "Kazimierz",
+        "lastName": "Inny"
+      },
+      "genre": "comedy",
+      "year": 2010,
+      "actors": [
+        {
+          "firstName": "Kazimierz",
+          "lastName": "Drugi"
+        },
+        {
+          "firstName": "Janek",
+          "lastName": "Wasilewski"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Trzeci"
+        }
+      ]
+    },
+    {
+      "title": "Ania z Zielonego wzgórza",
+      "director": {
+        "firstName": "Kazimierz",
+        "lastName": "Lepszy"
+      },
+      "genre": "horror",
+      "year": 2002,
+      "actors": [
+        {
+          "firstName": "Kazimierz",
+          "lastName": "Drugi"
+        },
+        {
+          "firstName": "Aleksandra",
+          "lastName": "Wysoka"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Mickiewicz"
+        }
+      ]
+    },
+    {
+      "title": "Titanik",
+      "director": {
+        "firstName": "Maja",
+        "lastName": "Pszczółka"
+      },
+      "genre": "sensation",
+      "year": 2019,
+      "actors": [
+        {
+          "firstName": "Kazimierz",
+          "lastName": "Drugi"
+        },
+        {
+          "firstName": "Grzegorz",
+          "lastName": "Stanicki"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Mickiewicz"
+        }
+      ]
+    }
+  ]
+}
